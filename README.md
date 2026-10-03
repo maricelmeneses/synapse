@@ -385,9 +385,8 @@ synapse/
 <sub><b>Investigadora principal · Bioestadística y analítica de datos</b></sub><br/>
 <sub>Lic. en Ciencias de la Computación · Máster en Computación Aplicada · IBM Data Analyst</sub><br/>
 <sub>10 años de docencia universitaria en Computación y Estadística, 5 de ellos en la Universidad de Ciencias Médicas de Villa Clara</sub><br/><br/>
+<a href="https://www.linkedin.com/in/maricel9002/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/maricelmeneses"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-1D1D1F?style=flat&logo=github&logoColor=white"/></a>
-<!-- Maricel: añade aquí tu LinkedIn con este formato:
-<a href="https://www.linkedin.com/in/TU-USUARIO/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> -->
 <br/><sub>Diseño del estudio · validez inferencial · análisis de supervivencia · redacción</sub>
 </td>
 <td align="center" width="50%" valign="top">
