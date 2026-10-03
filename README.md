@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="site/index.html"><img alt="Abrir el explorador" src="https://img.shields.io/badge/Abrir_el_explorador-site%2Findex.html-0A5CFF?style=for-the-badge"/></a>
+  <a href="https://maricelmeneses.github.io/synapse/"><img alt="Abrir el explorador" src="https://img.shields.io/badge/Abrir_el_explorador-maricelmeneses.github.io%2Fsynapse-0A5CFF?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
@@ -216,7 +216,7 @@ Una aplicación web en **un único fichero HTML**: sin servidor, sin instalar na
 Además: búsqueda con `Ctrl + K`, barra lateral plegable con `[`, cambio de estudio con las teclas `1` a `4`, ayuda con glosario, ajustes de tema, acento, densidad y movimiento, perfil local, interfaz en español e inglés, y modos claro y oscuro.
 
 ```bash
-synapse site      # → site/index.html: ábrelo con doble clic o publícalo en GitHub Pages
+synapse site      # → site/index.html, publicado en https://maricelmeneses.github.io/synapse/
 ```
 
 ## <img src="docs/assets/icons/image.svg" width="20" height="20" valign="middle"/> Capturas
